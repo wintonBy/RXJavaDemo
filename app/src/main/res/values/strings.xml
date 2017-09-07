@@ -1,3 +1,107 @@
 <resources>
     <string name="app_name">RXJavaDemo</string>
+    <string name="src_addr">https://github.com/wintonBy/RXJavaDemo</string>
+
+
+
+    <string name="anim_desc">通过RxJava实现一个简单的照片轮流展示</string>
+
+
+
+
+    <string-array name="search_items">
+        <item>Betelnut</item>
+        <item>Pineapple</item>
+        <item>Strawberry</item>
+        <item>Orange</item>
+        <item>Gooseberry</item>
+        <item>Avocado</item>
+        <item>Custard</item>
+        <item>Guava</item>
+        <item>Raspberry</item>
+        <item>Sugarcane</item>
+        <item>Olive</item>
+        <item>Tangor</item>
+        <item>Honey-dewmelon</item>
+        <item>Walnut</item>
+        <item>Blackberry</item>
+        <item>Rambutan</item>
+        <item>Peanut</item>
+        <item>Melon</item>
+        <item>Foxnut</item>
+        <item>Cumquat</item>
+        <item>Bitterorange</item>
+        <item>Blueberry</item>
+        <item>Pear</item>
+        <item>Plum</item>
+        <item>Lichee</item>
+        <item>Chestnut</item>
+        <item>Lotusnut(seed)</item>
+        <item>WaterCaltrop</item>
+        <item>Durian</item>
+        <item>Longan</item>
+        <item>Water-chestnut</item>
+        <item>Cranberry</item>
+        <item>Mango</item>
+        <item>Wildpeach</item>
+        <item>KiwiFruit</item>
+        <item>Papaya(Pawpaw)</item>
+        <item>Lemon</item>
+        <item>Bilberry</item>
+        <item>Flatpeach</item>
+        <item>Loquat</item>
+        <item>Apple</item>
+        <item>Grape</item>
+        <item>Sapodilla</item>
+        <item>Sorosis</item>
+        <item>almond</item>
+        <item>apple</item>
+        <item>applecore</item>
+        <item>applejuice</item>
+        <item>appleskin</item>
+        <item>apricot</item>
+        <item>apricotflesh</item>
+        <item>apricotpit</item>
+        <item>arecanut</item>
+        <item>banana</item>
+        <item>bananaskin</item>
+        <item>bargainprice</item>
+        <item>beechnut</item>
+        <item>Beijingfloweringcrab</item>
+        <item>bilberry</item>
+        <item>bitter</item>
+        <item>bitterness</item>
+        <item>bitterorange</item>
+        <item>blackberry</item>
+        <item>bloodorange</item>
+        <item>cannedfruit</item>
+        <item>carambola</item>
+        <item>cherry</item>
+        <item>cherrypit</item>
+        <item>cherrypulp</item>
+        <item>chestnut</item>
+        <item>Chinesechestnut</item>
+        <item>Chinesedate</item>
+        <item>Chinesegooseberry</item>
+        <item>Chinesewalnut</item>
+        <item>coconut</item>
+        <item>coconutmilk</item>
+        <item>coconutwater</item>
+        <item>coldstorage</item>
+        <item>coldstore</item>
+        <item>crisp</item>
+        <item>cumquat</item>
+        <item>currant</item>
+        <item>damsonplum</item>
+        <item>Dangshanpear</item>
+        <item>date</item>
+        <item>datepit</item>
+        <item>decayedfruit</item>
+        <item>downypitch</item>
+
+    </string-array>
+
+
+
+
 </resources>

@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.winton.rxjavademo.MainActivity">
 
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:src="@mipmap/logo"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/iv_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:text="Hello RxJava!"
+        android:layout_centerInParent="true"
+         />
 
-</android.support.constraint.ConstraintLayout>
+    <Button
+        android:layout_marginBottom="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="开始学习之旅"
+        android:id="@+id/bt_start"
+        android:layout_width="200dp"
+        android:layout_height="50dp" />
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:text="@string/src_addr"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:singleLine="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
